@@ -1,0 +1,5 @@
+(A) Move all of the app code in js/index.js out of unneccassary "app" variable
+(B) Automatically select/connect to devices labelled "pnoi" or some other unique label
+(B) Think how to handle and test behaviour for long recordings (that exceed the server-side arecord threshold)
+(C) Ability to get list of previously recorded files from Raspberry Pi and manage/transfer those
+Ability to discover unpaired devices and list them

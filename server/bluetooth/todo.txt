@@ -1,0 +1,2 @@
+x 2022-01-24 Move to a single LED based feedback system (perhaps green = connected, blink = listened to command, yellow = doing something, red = error)
+(B) Implement ability to transfer previously recorded files stored locally

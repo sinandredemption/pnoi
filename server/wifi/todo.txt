@@ -1,0 +1,6 @@
+x 2022-01-21 Test if start, stop are working as expected
+x 2022-01-24 Figure out how to transfer from WiFi and transfer a random file
+x 2022-01-24 Write transfer_file()
+x 2022-01-24 Wire up things back to RPi4B
+Figure out plan for new directory structure
+x 2022-01-21 Imitate the bluetooth server

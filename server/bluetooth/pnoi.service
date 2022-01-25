@@ -1,0 +1,9 @@
+[Unit]
+Description=Start Pnoi Bluetooth RFCOMM server
+After=multi-user.target
+
+[Service]
+ExecStart=/usr/bin/bash /home/pi/pnoiserver/scripts/runpnoi.sh
+
+[Install]
+WantedBy=multi-user.target

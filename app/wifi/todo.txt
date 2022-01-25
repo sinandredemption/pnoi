@@ -1,0 +1,2 @@
+x 2022-01-24 Write a generic function for file transfer
+(B) Check whether connected on startup
