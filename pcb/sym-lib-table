@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "Connector-ML")(type "Legacy")(uri "/home/fahad/Downloads/RPi_Zero_pHat_Template/symbols/Connector-ML.lib")(options "")(descr ""))
+  (lib (name "custom_symbols")(type "KiCad")(uri "${KIPRJMOD}/custom_symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "getting_started")(type "KiCad")(uri "/home/fahad/temp/kicad/New Project/getting_started.kicad_sym")(options "")(descr ""))
+)
