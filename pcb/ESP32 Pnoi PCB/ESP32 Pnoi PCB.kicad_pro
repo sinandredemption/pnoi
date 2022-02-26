@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "pcb.kicad_pro",
+    "filename": "ESP32 Pnoi PCB.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -318,7 +318,7 @@
   },
   "sheets": [
     [
-      "54212c01-b363-47b8-a145-45c40df316f4",
+      "7f6fba64-d703-43eb-b7f6-258edb7c6c13",
       ""
     ]
   ],
